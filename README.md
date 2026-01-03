@@ -22,3 +22,12 @@ You can try a simple sleep calculator tool here:
 
 ## Final Thoughts
 Improving sleep does not always require supplements or expensive apps. Understanding sleep cycles and timing can make a real difference.
+
+## Frequently Asked Questions
+
+**Is a sleep calculator accurate?**  
+Sleep calculators use average sleep cycles. They provide guidance, not medical advice.
+
+**Why do I feel tired after 8 hours of sleep?**  
+Waking up mid-sleep cycle can cause grogginess even after long sleep.
+
