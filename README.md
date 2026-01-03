@@ -1,4 +1,4 @@
-# Sleep Calculator Guide
+# How Sleep Cycles Affect Wake-Up time
 
 Many people sleep for 7–8 hours but still wake up feeling tired. The problem is often not sleep duration, but sleep timing.
 
