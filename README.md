@@ -9,10 +9,10 @@ Sleep happens in cycles of approximately 90 minutes. Each cycle includes light s
 Sleeping longer does not always mean better rest. Aligning your sleep and wake time with natural sleep cycles can significantly improve energy and focus.
 
 ## Using a Sleep Calculator
-A sleep calculator helps estimate the best times to go to bed or wake up based on sleep cycles rather than guessing.
+Instead of guessing, a sleep calculator helps you find the best times to sleep or wake based on sleep cycles.
+I personally explored a simple guide that explains sleep cycles clearly and links to a practical calculator you can use immediately.
+👉 **[Sleep Cycle & Calculator Guide](https://medium.com/@needfuly/why-sleep-timing-is-more-important-than-sleep-duration-and-how-to-fix-it-5a092d581483)
 
-You can try a simple sleep calculator tool here:
-👉 **[Sleep Calculator](https://needfuly.com/sleep-calculator)**
 
 ## Who Can Benefit
 - Students
